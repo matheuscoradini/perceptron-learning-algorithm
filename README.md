@@ -16,7 +16,6 @@ After that, our w vector is rotated by 270 degrees, and it represents the new bo
 n = 20, attempts_max = 10:
 ![screenshot2](https://github.com/matheuscoradini/perceptron-learning-algorithm/blob/master/images/screenshot2.PNG)
 
-The more dots we have, more accurate is our w:
-n = 200, attempts_max = 10:
+The more dots we have, more accurate is our w. n = 200, attempts_max = 10:
 ![screenshot2](https://github.com/matheuscoradini/perceptron-learning-algorithm/blob/master/images/screenshot3.PNG)
 
