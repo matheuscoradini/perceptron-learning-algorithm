@@ -9,7 +9,7 @@ All (a,b) dots and a 'y = x' boundary line are represented in a 2D plot. The dot
 
 ![screenshot1](https://github.com/matheuscoradini/perceptron-learning-algorithm/blob/master/images/screenshot1.PNG)
 
-The inputs of the algorithm are the vectors X and y(X), y(X) is the target. The output are a weight vector w and the hypothesis h, where h(x) = sign(wTx). The PLA compare vector h(X) and y(X) iteratively, and everytime y[i] != h[i] the algorithm tries to improve w, adding the Xy vector: w = w + Xy. In this one of the parameters is the attempts_max, that sets the maximum number of iterations. 
+The inputs of the algorithm are the vectors X and y(X), y(X) is the target. The outputs are a weight vector w and the hypothesis h(X), where h(x) = sign(wTx). The PLA compare vector h(X) and y(X) iteratively, and everytime y[i] != h[i] the algorithm tries to improve w, adding the Xy vector: w = w + Xy. In this demonstration, one of the parameters is the attempts_max, that sets the maximum number of iterations. 
 
 After that, our w vector is rotated by 270 degrees, and it represents the new boundary line.
 
