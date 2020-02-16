@@ -13,12 +13,10 @@ The inputs of the algorithm are the vectors X and y, y is the target. The output
 
 After that, our 2 vector is rotated by 270 degrees, and it represents the new boundary line.
 
-n = 20
-attempts_max = 10
+n = 20, attempts_max = 10:
 ![screenshot2](https://github.com/matheuscoradini/perceptron-learning-algorithm/blob/master/images/screenshot2.PNG)
 
 The more dots we have, more accurate is our w:
-n = 200
-attempts_max = 10
+n = 200, attempts_max = 10:
 ![screenshot2](https://github.com/matheuscoradini/perceptron-learning-algorithm/blob/master/images/screenshot3.PNG)
 
