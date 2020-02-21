@@ -1,4 +1,4 @@
-# perceptron-learning-algorithm
+# perceptron-learning-algorithm-demonstration
 A simple demonstration of how the PLA works.
 
 Packages used: Numpy, Matplotlib.
